@@ -11,3 +11,5 @@
 ## Main Repo
 https://github.com/invoke-ai/InvokeAI <br />
 
+## Docs
+https://invoke-ai.github.io/InvokeAI <br />
