@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab v3.0
 
 ## Main Repo
 https://github.com/invoke-ai/InvokeAI <br />
