@@ -13,3 +13,6 @@ https://github.com/invoke-ai/InvokeAI <br />
 
 ## Docs
 https://invoke-ai.github.io/InvokeAI <br />
+
+## Output
+![Screenshot 2023-07-22 191553](https://github.com/camenduru/InvokeAI-colab/assets/54370274/cbf74b6a-28e6-43f4-8882-1bf9217cafcb)
