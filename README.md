@@ -16,6 +16,12 @@ This is not an error or crash. We are intentionally restarting the colab. You do
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/a2c1dd61-bef8-4bc4-bd5c-3fe0c3d88d0c)
 When you see `http://127.0.0.1:9090` please click the link `http://random_text.remote.moe`
 
+### ControlNet
+For ControlNet, please delete the '--default_only' argument before running the second cell.
+
+### Custom models
+InvokeAI has its own model installer inside the UI. Please use that tab.
+
 ## Main Repo
 https://github.com/invoke-ai/InvokeAI <br />
 
