@@ -17,7 +17,7 @@ This is not an error or crash. We are intentionally restarting the colab. You do
 When you see `http://127.0.0.1:9090` please click the link `http://random_text.remote.moe`
 
 ### ControlNet
-For ControlNet, please delete the '--default_only' argument before running the second cell.
+For ControlNet, please delete the `--default_only` argument before running the second cell.
 
 ### Custom models
 InvokeAI has its own model installer inside the UI. Please use that tab.
