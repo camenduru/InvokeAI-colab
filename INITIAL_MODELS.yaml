@@ -67,6 +67,7 @@ sd-1/main/waifu-diffusion:
 sd-1/controlnet/canny:
    repo_id: lllyasviel/control_v11p_sd15_canny
    recommended: True
+   default: True
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
 sd-1/controlnet/mlsd:
@@ -100,10 +101,12 @@ sd-1/controlnet/ip2p:
 sd-1/embedding/EasyNegative:
    path: https://huggingface.co/embed/EasyNegative/resolve/main/EasyNegative.safetensors
    recommended: True
+   default: True
 sd-1/embedding/ahx-beta-453407d:
    repo_id: sd-concepts-library/ahx-beta-453407d
 sd-1/lora/LowRA:
    path: https://civitai.com/api/download/models/63006
    recommended: True
+   default: True
 sd-1/lora/Ink scenery:
    path: https://civitai.com/api/download/models/83390
