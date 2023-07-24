@@ -69,20 +69,25 @@ sd-1/controlnet/canny:
    recommended: True
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
+   recommended: False
 sd-1/controlnet/mlsd:
    repo_id: lllyasviel/control_v11p_sd15_mlsd
+   recommended: False
 sd-1/controlnet/depth:
    repo_id: lllyasviel/control_v11f1p_sd15_depth
    recommended: True
 sd-1/controlnet/normal_bae:
    repo_id: lllyasviel/control_v11p_sd15_normalbae
+   recommended: False
 sd-1/controlnet/seg:
    repo_id: lllyasviel/control_v11p_sd15_seg
+   recommended: False
 sd-1/controlnet/lineart:
    repo_id: lllyasviel/control_v11p_sd15_lineart
    recommended: False
 sd-1/controlnet/lineart_anime:
    repo_id: lllyasviel/control_v11p_sd15s2_lineart_anime
+   recommended: False
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
    recommended: False
@@ -91,19 +96,25 @@ sd-1/controlnet/scribble:
    recommended: False
 sd-1/controlnet/softedge:
    repo_id: lllyasviel/control_v11p_sd15_softedge
+   recommended: False
 sd-1/controlnet/shuffle:
    repo_id: lllyasviel/control_v11e_sd15_shuffle
+   recommended: False
 sd-1/controlnet/tile:
    repo_id: lllyasviel/control_v11f1e_sd15_tile
+   recommended: False
 sd-1/controlnet/ip2p:
    repo_id: lllyasviel/control_v11e_sd15_ip2p
+   recommended: False
 sd-1/embedding/EasyNegative:
    path: https://huggingface.co/embed/EasyNegative/resolve/main/EasyNegative.safetensors
    recommended: True
 sd-1/embedding/ahx-beta-453407d:
    repo_id: sd-concepts-library/ahx-beta-453407d
+   recommended: False
 sd-1/lora/LowRA:
    path: https://civitai.com/api/download/models/63006
    recommended: True
 sd-1/lora/Ink scenery:
    path: https://civitai.com/api/download/models/83390
+   recommended: False
