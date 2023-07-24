@@ -17,8 +17,7 @@ This is not an error or crash. We are intentionally restarting the colab. You do
 When you see `http://127.0.0.1:9090` please click the link `http://random_text.remote.moe`
 
 ### ControlNet
-ControlNet Depth and Canny Default installed. <br />
-If you want more ControlNet. After running the first cell, go to `/content/InvokeAI/invokeai/configs/INITIAL_MODELS.yaml` and edit `recommended: False` to `True`.
+ControlNet `depth` and `canny` default installed. If you want more ControlNet. After running the first cell, go to `/content/InvokeAI/invokeai/configs/INITIAL_MODELS.yaml` and edit `recommended: False` to `True`.
 
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/0aeecc0e-7442-478b-ab5e-b044861d5603)
 
