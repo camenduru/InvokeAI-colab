@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab v3.0.2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InvokeAI-colab/blob/main/InvokeAI_colab.ipynb) | InvokeAI_colab v3.0.2post1
 
 ## Tutorial 
 ![image](https://github.com/camenduru/InvokeAI-colab/assets/54370274/25f36aa3-e4da-4bef-a951-b8b6c6aff5d3)
