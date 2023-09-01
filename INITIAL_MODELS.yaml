@@ -1,6 +1,6 @@
 # This file predefines a few models that the user may want to install.
-sd-1/main/dreamshaper-v8:
-   path: https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16
+sd-1/main/dark-sushi-25D-v40:
+   path: https://civitai.com/api/download/models/141866?type=Model&format=SafeTensor&size=pruned&fp=fp16
    recommended: True
    default: True
 sd-1/lora/add-more-details:
