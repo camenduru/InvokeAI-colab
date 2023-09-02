@@ -1,10 +1,16 @@
 # This file predefines a few models that the user may want to install.
-sd-1/main/dark-sushi-25D-v40:
-   path: https://civitai.com/api/download/models/141866?type=Model&format=SafeTensor&size=pruned&fp=fp16
+sd-1/main/realistic-vision-v5.1:
+   path: https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16
    recommended: True
    default: True
+sd-1/main/realistic-vision-v5.1-inpainting:
+   path: https://civitai.com/api/download/models/130090?type=Model&format=SafeTensor&size=full&fp=fp16
+   recommended: True
 sd-1/lora/add-more-details:
    path: https://civitai.com/api/download/models/87153
+   recommended: True
+sd-1/lora/detail-tweaker:
+   path: https://civitai.com/api/download/models/62833
    recommended: True
 sd-1/main/stable-diffusion-v1-5:
    description: Stable Diffusion version 1.5 diffusers model (4.27 GB)
@@ -84,13 +90,13 @@ sd-1/controlnet/canny:
    recommended: True
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
-   recommended: False
+   recommended: True
 sd-1/controlnet/mlsd:
    repo_id: lllyasviel/control_v11p_sd15_mlsd
    recommended: False
 sd-1/controlnet/depth:
    repo_id: lllyasviel/control_v11f1p_sd15_depth
-   recommended: True
+   recommended: False
 sd-1/controlnet/normal_bae:
    repo_id: lllyasviel/control_v11p_sd15_normalbae
    recommended: False
@@ -99,10 +105,10 @@ sd-1/controlnet/seg:
    recommended: False
 sd-1/controlnet/lineart:
    repo_id: lllyasviel/control_v11p_sd15_lineart
-   recommended: True
+   recommended: False
 sd-1/controlnet/lineart_anime:
    repo_id: lllyasviel/control_v11p_sd15s2_lineart_anime
-   recommended: True
+   recommended: False
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
    recommended: True
@@ -114,16 +120,16 @@ sd-1/controlnet/softedge:
    recommended: False
 sd-1/controlnet/shuffle:
    repo_id: lllyasviel/control_v11e_sd15_shuffle
-   recommended: True
+   recommended: False
 sd-1/controlnet/tile:
    repo_id: lllyasviel/control_v11f1e_sd15_tile
-   recommended: True
+   recommended: False
 sd-1/controlnet/ip2p:
    repo_id: lllyasviel/control_v11e_sd15_ip2p
-   recommended: True
+   recommended: False
 sd-1/embedding/EasyNegative:
    path: https://huggingface.co/embed/EasyNegative/resolve/main/EasyNegative.safetensors
-   recommended: True
+   recommended: False
 sd-1/embedding/ahx-beta-453407d:
    repo_id: sd-concepts-library/ahx-beta-453407d
    recommended: False
