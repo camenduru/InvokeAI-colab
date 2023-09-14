@@ -132,8 +132,8 @@ sd-1/controlnet/ip2p:
    repo_id: lllyasviel/control_v11e_sd15_ip2p
    recommended: False
 sd-1/embedding/EasyNegative:
-   path: https://huggingface.co/embed/EasyNegative/resolve/main/EasyNegative.safetensors
-   recommended: True
+   path: https://civitai.com/api/download/models/9208
+   recommended: False
 sd-1/embedding/ahx-beta-453407d:
    repo_id: sd-concepts-library/ahx-beta-453407d
    recommended: False
@@ -146,12 +146,12 @@ sd-1/lora/Ink scenery:
 sd-1/lora/Anime Lineart-Manga-like:
    path: https://civitai.com/api/download/models/28907
    recommended: True
-sd-1/main/Pastel-Mix [Stylized Anime Model]:
-   path: https://civitai.com/api/download/models/6223?type=Model&format=SafeTensor&size=full&fp=fp16
+sd-1/main/Pastel-Mix-Stylized Anime Model:
+   path: https://civitai.com/api/download/models/6223
    recommended: True
  sd-1/main/anything-4.0-inpainting:
    repo_id: Sanster/anything-4.0-inpainting
    recommended: True
  sd-1/main/MeinaMixv11:
-   path: https:https://civitai.com/api/download/models/119057?type=Model&format=SafeTensor&size=pruned&fp=fp16
+   path: https:https://civitai.com/api/download/models/119057
    recommended: True
