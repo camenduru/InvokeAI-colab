@@ -10,6 +10,15 @@ sd-1/main/anything-4.0-inpainting:
    repo_id: Sanster/anything-4.0-inpainting
    description: A general use SD-1.5 "anything" model that supports anime and manga styles for inpainting (4.27 GB)
    recommended: True
+sd-1/main/Ether-Blu-Mix:
+   path: https://civitai.com/api/download/models/114492?type=Model&format=SafeTensor&size=pruned&fp=fp32
+   recommended: False
+sd-1/main/DonutHoleMix:
+   path: https://civitai.com/api/download/models/83231?type=Model&format=SafeTensor&size=pruned&fp=fp16
+   recommended: True
+sd-1/main/ShyakuJXMix:
+   path: https://civitai.com/api/download/models/109132
+   recommended: True
 sd-1/main/stable-diffusion-v1-5:
    description: Stable Diffusion version 1.5 diffusers model (4.27 GB)
    repo_id: runwayml/stable-diffusion-v1-5
@@ -68,13 +77,10 @@ sd-1/controlnet/shuffle:
    recommended: False
 sd-1/controlnet/tile:
    repo_id: lllyasviel/control_v11f1e_sd15_tile
-   recommended: True
+   recommended: False
 sd-1/controlnet/ip2p:
    repo_id: lllyasviel/control_v11e_sd15_ip2p
    recommended: False
-sd-1/embedding/EasyNegative:
-   path: https://civitai.com/api/download/models/9208
-   recommended: True
 sd-1/embedding/ahx-beta-453407d:
    repo_id: sd-concepts-library/ahx-beta-453407d
    recommended: False
@@ -104,4 +110,22 @@ sd-1/lora/add-more-details:
    recommended: True
 sd-1/lora/detail-tweaker:
    path: https://civitai.com/api/download/models/62833
+   recommended: True
+sd-1/lora/badhandv4:
+   path: https://civitai.com/api/download/models/20068
+   recommended: True
+sd-1/lora/EasyNegative:
+   path: https://civitai.com/api/download/models/9208
+   recommended: True
+sd-1/vae/Anything-model-VAE-v4.0:
+   path: https://civitai.com/api/download/models/119279
+   recommended: True
+sd-1/vae/Color101 VAE:
+   path: https://civitai.com/api/download/models/83798
+   recommended: True
+sd-1/vae/Vae-ft-mse-840000-ema-pruned:
+   path: https://civitai.com/api/download/models/131658
+   recommended: True
+sd-1/vae/Kl-f8-anime2:
+   path: https://civitai.com/api/download/models/131654
    recommended: True
